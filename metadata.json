@@ -1,0 +1,8 @@
+{
+  "name": "CONVERSE w/ Aura ",
+  "description": "A friendly and patient AI voice tutor to help you practice English conversation with live grammar corrections.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}

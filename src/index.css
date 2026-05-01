@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sage-50: #f4f7f4;
+  --color-sage-100: #e1e9e0;
+  --color-sage-200: #c5d4c3;
+  --color-sage-300: #a1b89e;
+  --color-sage-400: #7d9a7a;
+  --color-sage-500: #5d7c5a;
+  --color-sage-600: #496247;
+  --color-off-white: #f5f5f0;
+}
+
+@layer base {
+  body {
+    @apply bg-off-white text-sage-600;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}
